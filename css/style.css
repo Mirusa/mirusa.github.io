@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(238, 238, 238);
+    
+}
+#T1{
+    color:rgb(129,242,231);
+    font-family:fantasy;
+}
+#W1{
+    border:solid 5px rgb(129,242,231);
+    color:rgb(238, 12, 12);
+    font-family:Mamelon;
+}
